@@ -1,0 +1,80 @@
+/*Imagem 06*/
+img[src="img/imagem2.jpg"] {
+	border-radius: 50%;
+}
+/*Imagem 06*/
+
+/*Imagem 07*/
+a[hfef ^="pasta1/"] {
+	color: orange;
+}
+
+a[hfef ^="pasta3/"] {
+	color: red;
+}
+/*Imagem 07*/
+
+/*Imagem 09*/
+header {
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 20px;
+}
+/*Imagem 09*/
+
+/*Imagem 10*/
+.topnav {
+	overflow: hidden;
+	background-color: orange;
+}
+
+.topnav a {
+	float: left;
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: #f2f2f2;
+}
+/*Imagem 10*/
+
+/*Imagem 12*/
+.column {
+	float: left;
+	width: 33.33%;
+}
+/*Imagem 12*/
+
+/*Imagem 13*/
+@media screen and (max-width: 600px){
+	.column {
+		width: 100%;
+	}
+}
+/*Imagem 13*/
+
+/*Imagem 14*/
+.column {
+	float: left;
+}
+
+.column.side {
+	width: 25%;
+}
+
+.column.middle {
+	width: 50%;
+}
+/*Imagem 14*/
+
+/*Imagem 15*/
+.footer {
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 10px;
+}
+/*Imagem 15*/

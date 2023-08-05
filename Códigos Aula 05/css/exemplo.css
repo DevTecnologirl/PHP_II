@@ -1,0 +1,32 @@
+#idUm{
+	background: blue;
+}
+
+#idDois {
+	background: red;
+}
+
+#idTres {
+    background: orange;
+}
+
+#idQuatro {
+    background: black;
+}
+
+h1{
+	background: green;
+}
+
+#moderno {
+	font-family: Comic Sans MS; 
+}
+
+.palavrasImportantes {
+	font-family: Comic Sans MS;
+	font-size: 200;
+}
+
+p, h2 {
+	background: orange
+}
